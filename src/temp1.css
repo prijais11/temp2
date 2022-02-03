@@ -2,5 +2,8 @@
     box-sizing: border-box;
 }
 .style{
-    padding-left: 50px;
+    padding-left: 40px;
+}
+.astyle{
+    padding-left: 55px;
 }
