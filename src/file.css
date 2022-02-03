@@ -1,3 +1,6 @@
+*{
+    box-sizing:border-box;
+}
 <style> 
 #header{
     background-color:grey;
@@ -32,4 +35,15 @@ background-color:black;
 li a.contact_us {
 color: white;
 background-color: #04AA6D;
-}</style>
+}
+.style{
+    width:60;
+    text-align:justify;
+    float:left;
+}
+.astyle{
+    width:40;
+    text-align:justify;
+    float:right;
+}
+</style>
