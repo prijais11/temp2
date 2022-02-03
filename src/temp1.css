@@ -7,3 +7,10 @@
 .astyle{
     padding-left: 55px;
 }
+.row{
+    padding-left: 40px;
+}
+.column {
+    float: left;
+    width: 50%;
+}
